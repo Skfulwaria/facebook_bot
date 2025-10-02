@@ -31,9 +31,9 @@ def download_bot():
     print("\033[1;33m📥 Downloading Facebook Comment Bot...\033[0m")
     
     files = {
-        'fb_bot.py': 'https://raw.githubusercontent.com/BrokenNadeem/fb-bot/main/fb_bot.py',
-        'tokens.txt': 'https://raw.githubusercontent.com/BrokenNadeem/fb-bot/main/tokens.txt',
-        'comments.txt': 'https://raw.githubusercontent.com/BrokenNadeem/fb-bot/main/comments.txt'
+        'fb_bot.py': 'https://raw.github.com/Skfulwaria/facebook_bot/blob/main/fb_bot.py',
+        'tokens.txt': 'https://raw.github.com/Skfulwaria/facebook_bot/blob/main/tokens.txt',
+        'comments.txt': 'https://raw.github.com/Skfulwaria/facebook_bot/blob/main/comments.txt'
     }
     
     for filename, url in files.items():
