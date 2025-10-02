@@ -1,1 +1,17 @@
-
+{
+    "version": "3.0",
+    "developer": "Broken Nadeem",
+    "features": {
+        "max_tokens": 100,
+        "min_delay": 120,
+        "max_delay": 300,
+        "auto_remove_invalid": true,
+        "github_support": true
+    },
+    "safety_notes": [
+        "Use minimum 120 seconds delay",
+        "Maximum 100 tokens recommended", 
+        "Monitor bot activity regularly",
+        "Respect Facebook Terms of Service"
+    ]
+}
